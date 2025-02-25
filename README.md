@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**vxmm/vxmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ This is my public repo with projects I like to work on in my spare time in-between work and studying for certifications I use mostly as a playground for testing prototypes.
 
-Here are some ideas to get you started:
+### ☁ Cloud Platforms: 
+AWS, IBM Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ❤ Infrastructure as Code: 
+Terraform, CloudFormation
+
+### 🦾 CI/CD: 
+AWS CodePipeline, Jenkins, GitHub Actions
+
+### 🐳 Containerization: 
+Docker
+
+### 🦿 Scripting & Automation: 
+Python, Ansible
+
+### 📜 Certifications:
+
+AWS Certified Security - Specialty
+
+AWS Certified Developer - Associate
+
+AWS Certified Solutions Architect - Associate
+
+HashiCorp Certified Terraform - Associate
+
+📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/vlad-maracine-a4a1671b1/)
+
+[Email](mailto:vlad.maracine.upb@gmail.com)
